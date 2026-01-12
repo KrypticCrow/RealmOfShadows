@@ -11,7 +11,7 @@ A Python text-based RPG with:
 ## How to Run
 
 1. Install Python 3.11+
-2. Run `pip install -r requirements.txt` (if you have dependencies, e.g., Flask later)
+2. Run `pip install -r requirements.txt`
 3. Run the game with:
 
 ```bash
